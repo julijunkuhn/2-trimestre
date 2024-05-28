@@ -6,38 +6,38 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
   {
-    enunciado: "Pergunta 1",
+    enunciado: "qual sua cor favorita?",
     alternativas: [
-      "Alternativa 1",
-      "Alternativa 2",
+      "rosa",
+      "azul",
       ]
   },
   {
-    enunciado: "Pergunta 2",
+    enunciado: "qual seu passatempo favorito?",
     alternativas: [
-      "Alternativa 1",
-      "Alternativa 2",
+      "ficar em casa",
+      "sair",
       ]
   },
   {
-    enunciado: "Pergunta 3",
+    enunciado: "qual sua comida favorita?",
     alternativas: [
-      "Alternativa 1",
-      "Alternativa 2",
+      "churrasco",
+      "sushi",
       ]
   },
   {
-    enunciado: "Pergunta 4",
+    enunciado: "você prefere frio ou calor?",
     alternativas: [
-      "Alternativa 1",
-      "Alternativa 2",
+      "frio",
+      "calor",
       ]
   },
    {
-    enunciado: "Pergunta 5",
+    enunciado: "você mora em cwb?",
     alternativas: [
-      "Alternativa 1",
-      "Alternativa 2",
+      "sim",
+      "não",
       ]
   },
   ];
