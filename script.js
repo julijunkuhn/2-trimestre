@@ -8,36 +8,66 @@ const perguntas = [
   {
     enunciado: "qual sua cor favorita?",
     alternativas: [
-      "rosa",
-      "azul",
+  {
+    texto: "rosa",
+    afirmação: "afirmação",
+  }
+      {
+    texto: "azul"
+    arirmação: "afirmação",
+      }, 
       ]
   },
   {
     enunciado: "qual seu passatempo favorito?",
     alternativas: [
-      "ficar em casa",
-      "sair",
+      {
+    texto: "ficar em casa",
+    afirmação: "afirmação",
+      }
+      {
+    texto: "sair de casa",
+    afirmação: "afirmação",
+      }
       ]
   },
   {
     enunciado: "qual sua comida favorita?",
     alternativas: [
-      "churrasco",
-      "sushi",
+      {
+    texto: "churrasco",
+    afirmação: "afirmação",
+      }
+      {
+    texto: "sushi",
+    afirmação: "afirmação",
+      }
       ]
   },
   {
     enunciado: "você prefere frio ou calor?",
     alternativas: [
-      "frio",
-      "calor",
+      {
+    texto:"frio",
+    afirmação: "afirmação",
+      }
+      {
+    texto: "calor"
+    afirmação: "afirmação",
+      }
       ]
   },
    {
     enunciado: "você mora em cwb?",
     alternativas: [
-      "sim",
-      "não",
+      {
+    texto: "sim",
+    afirmação: "afirmação",
+      }
+      {
+    texto: "não",
+    afirmação: "afirmação",
+    }
       ]
   },
   ];
